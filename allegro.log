@@ -1,0 +1,371 @@
+system   D            wsystem.c:583  maybe_parent_dir                 [   0.00086] Also searching C:\Users\dell\Desktop\Project\Tony and Magic\
+system   D            wsystem.c:633  _al_win_safe_load_library        [   0.00131] PathFindOnPath found: C:\Windows\system32\d3d9.dll
+system   D            wsystem.c:544  load_library_at_path             [   0.00137] Calling LoadLibrary C:\Windows\system32\d3d9.dll
+system   I            wsystem.c:547  load_library_at_path             [   0.01177] Loaded C:\Windows\system32\d3d9.dll
+d3d      I         d3d_disp.cpp:696  _al_d3d_init_display             [   0.11252] Render-to-texture: 1
+system   I             system.c:252  al_install_system                [   0.11263] Allegro version: 5.0.10
+d3d      I         d3d_disp.cpp:1737 d3d_create_display_locked        [   0.15294] faux_fullscreen=0
+d3d      D         d3d_disp.cpp:1738 d3d_create_display_locked        [   0.15302] al_display=01115890
+d3d      D         d3d_disp.cpp:1739 d3d_create_display_locked        [   0.15306] al_display->vt=01111BB8
+d3d      I d3d_display_formats.cpp:144  _al_d3d_generate_display_format_list [   0.20826] found 64 format combinations
+display  D   display_settings.c:191  debug_display_settings           [   0.20835] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20840] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20843] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20847] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20850] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20854] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20857] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20861] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20864] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20868] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20872] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20878] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20881] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20885] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20888] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20892] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20895] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20899] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20902] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20906] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20909] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20913] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20916] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20929] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20933] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20937] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20940] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20944] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20947] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20951] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20954] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.20958] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   0.20961] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.20964] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.20968] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.20971] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.20974] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.20978] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.20981] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.20987] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.20990] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.20994] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.20997] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21000] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21004] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21007] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21010] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21014] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21020] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21025] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21028] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21032] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21035] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21040] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21043] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21047] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21050] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21054] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21057] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21061] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21064] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21068] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21080] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21085] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21088] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21092] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21095] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21099] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21102] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21106] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21109] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21112] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21115] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21119] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21122] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21126] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21129] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21133] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21136] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21139] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21143] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21148] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21151] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21157] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21168] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21172] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21175] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21179] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21183] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21186] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21189] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21193] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21196] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21200] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21203] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   0.21207] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   0.21210] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21213] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21217] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21220] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21223] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21227] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21230] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21234] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21237] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21250] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21255] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21258] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21262] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21265] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21269] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21272] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21275] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21279] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21282] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21286] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21289] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21300] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21304] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21308] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21311] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21315] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21318] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21322] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21325] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21329] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   0.21332] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   0.21335] Single Buffer requirement not met.
+d3d      D         d3d_disp.cpp:1645 d3d_create_display_internals     [   0.21341] Trying format 0.
+d3d      I         d3d_disp.cpp:1326 d3d_display_thread_proc          [   0.21550] Chose a display format: 23
+d3d      I         d3d_disp.cpp:1395 d3d_display_thread_proc          [   0.21558] Normal window.
+d3d      I         d3d_disp.cpp:801  d3d_create_device                [   0.24872] Using no depth stencil buffer
+d3d      D         d3d_disp.cpp:866  d3d_create_device                [   0.43325] BeginScene succeeded in create_device
+d3d      D         d3d_disp.cpp:874  d3d_create_device                [   0.43335] Success
+d3d      D         d3d_disp.cpp:1668 d3d_create_display_internals     [   0.43343] Resumed after wait.
+d3d      I         d3d_disp.cpp:1701 d3d_create_display_internals     [   0.43354] Format 0 succeeded.
+d3d      D         d3d_disp.cpp:1724 d3d_create_display_internals     [   0.43361] Returning d3d_display: 01115890
+d3d      D         d3d_disp.cpp:1749 d3d_create_display_locked        [   0.43365] al_display=01115890
+d3d      D         d3d_disp.cpp:1750 d3d_create_display_locked        [   0.43368] al_display->vt=01111BB8
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44391] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44398] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44402] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44405] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44408] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44411] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44414] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44417] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.44420] Fake format
+d3d      D         d3d_disp.cpp:1174 real_choose_bitmap_format        [   0.44424] Alpha doesn't match
+d3d      D         d3d_disp.cpp:1181 real_choose_bitmap_format        [   0.44427] Adapter format is 23
+d3d      D         d3d_disp.cpp:1184 real_choose_bitmap_format        [   0.44430] Found a format
+d3d      I         d3d_disp.cpp:2283 _al_d3d_create_bitmap            [   0.44434] Chose bitmap format 9
+dtor     D               dtor.c:184  _al_register_destructor          [   0.46076] added dtor for object 0111A9F0, func 0FCB25BD
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   0.54124] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   0.54135] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57083] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57091] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57094] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57097] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57100] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57103] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57106] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57109] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57112] Fake format
+d3d      D         d3d_disp.cpp:1174 real_choose_bitmap_format        [   0.57115] Alpha doesn't match
+d3d      D         d3d_disp.cpp:1181 real_choose_bitmap_format        [   0.57118] Adapter format is 23
+d3d      D         d3d_disp.cpp:1184 real_choose_bitmap_format        [   0.57121] Found a format
+d3d      I         d3d_disp.cpp:2283 _al_d3d_create_bitmap            [   0.57124] Chose bitmap format 9
+dtor     D               dtor.c:184  _al_register_destructor          [   0.57184] added dtor for object 0111BBC8, func 0FCB25BD
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   0.57586] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   0.57594] _al_d3d_sync_bitmap (video) ref count == 1
+dtor     D               dtor.c:184  _al_register_destructor          [   0.57681] added dtor for object 0111BD70, func 0FCB24FA
+dtor     D               dtor.c:184  _al_register_destructor          [   0.57689] added dtor for object 0111BF08, func 0FCB27CF
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57738] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57743] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57746] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57750] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57753] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57756] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57759] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57762] Fake format
+d3d      D         d3d_disp.cpp:1166 real_choose_bitmap_format        [   0.57765] Fake format
+d3d      D         d3d_disp.cpp:1174 real_choose_bitmap_format        [   0.57768] Alpha doesn't match
+d3d      D         d3d_disp.cpp:1181 real_choose_bitmap_format        [   0.57771] Adapter format is 23
+d3d      D         d3d_disp.cpp:1184 real_choose_bitmap_format        [   0.57774] Found a format
+d3d      I         d3d_disp.cpp:2283 _al_d3d_create_bitmap            [   0.57778] Chose bitmap format 9
+dtor     D               dtor.c:184  _al_register_destructor          [   0.57827] added dtor for object 06A97110, func 0FCB25BD
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   0.58068] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   0.58156] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   0.64662] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   0.64672] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   0.64797] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   0.64804] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   0.64866] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   0.64871] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      I         d3d_disp.cpp:921  d3d_destroy_display              [   1.64069] destroying display 01115890 (current 00000000)
+bitmap   D             bitmap.c:548  _al_convert_to_memory_bitmap     [   1.64117] converting display bitmap 06A97110 to memory bitmap
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   1.64268] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   1.64276] _al_d3d_sync_bitmap (video) ref count == 1
+bitmap   D             bitmap.c:548  _al_convert_to_memory_bitmap     [   1.64304] converting display bitmap 0111BBC8 to memory bitmap
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   1.64382] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   1.64389] _al_d3d_sync_bitmap (video) ref count == 1
+bitmap   D             bitmap.c:548  _al_convert_to_memory_bitmap     [   1.64425] converting display bitmap 0111A9F0 to memory bitmap
+d3d      D          d3d_bmp.cpp:467  _al_d3d_sync_bitmap              [   1.64764] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:473  _al_d3d_sync_bitmap              [   1.64772] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D         d3d_disp.cpp:905  d3d_destroy_display_internals    [   1.64933] waiting for display 01115890's thread to end
+d3d      W         d3d_disp.cpp:617  d3d_destroy_device               [   1.65869] d3d_destroy_device: ref count not 0
+d3d      I         d3d_disp.cpp:1527 d3d_display_thread_proc          [   1.68863] d3d display thread exits
+d3d      I         d3d_disp.cpp:1737 d3d_create_display_locked        [   1.69375] faux_fullscreen=0
+d3d      D         d3d_disp.cpp:1738 d3d_create_display_locked        [   1.69383] al_display=01115890
+d3d      D         d3d_disp.cpp:1739 d3d_create_display_locked        [   1.69387] al_display->vt=01111BB8
+d3d      I d3d_display_formats.cpp:144  _al_d3d_generate_display_format_list [   1.69495] found 64 format combinations
+display  D   display_settings.c:191  debug_display_settings           [   1.69503] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69508] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69517] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69522] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69526] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69530] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69533] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69537] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69540] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69544] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69547] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69552] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69555] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69559] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69562] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69566] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69569] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69573] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69576] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69580] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69583] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69587] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69590] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69594] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69597] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69601] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69604] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69608] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69611] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69615] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69618] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69622] Score is : 897
+display  D   display_settings.c:191  debug_display_settings           [   1.69625] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69629] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69632] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69636] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69640] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69643] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69647] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69650] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69654] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69658] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69661] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69673] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69677] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69681] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69684] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69688] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69691] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69695] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69698] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69702] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69705] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69709] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69712] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69716] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69719] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69723] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69726] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69730] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69733] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69737] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69740] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69744] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69747] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69751] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69754] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69758] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69761] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69765] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69768] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69772] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69775] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69779] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69783] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69787] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69790] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69794] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69797] color: 32 (rgba 8880), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69801] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69804] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69808] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69811] color: 16 (rgba 5650), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69814] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69818] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69821] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69825] color: 16 (rgba 5650), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69829] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69832] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69835] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69839] color: 16 (rgba 5650), depth: 24, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69842] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69845] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69849] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69852] color: 16 (rgba 5650), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:506  _al_score_display_settings       [   1.69856] Score is : 769
+display  D   display_settings.c:191  debug_display_settings           [   1.69859] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69863] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69866] color: 32 (rgba 8880), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69870] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69873] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69877] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69880] color: 32 (rgba 8880), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D   display_settings.c:377  _al_score_display_settings       [   1.69884] Single Buffer requirement not met.
+display  D   display_settings.c:191  debug_display_settings           [   1.69887] color: 32 (rgba 8880), depth: 24, stencil: 0, acc: 000“íåé¬ŒêlÇcqVåÐ˜ÞùævAÙ—v±0Ã›LQÚ]E¼Æw³~ß*ÆTµ‰)àå…ï[…L+@5Ðär…14“ôí­ÚÙ²¶^†ý™Ó+½¡PåüCÝ[DuöI|"®ÏƒŽ²OYÇÏ=[˜:v¢Ýt­ªÝÞ§‘?¶ðÏ§B¦kƒj A¹\Á§‡lÕYè!®×Ók>¾Äb‡>ð­ÚRØm‰÷ÄkúÎV;ˆ¹§hKÿì ä`º¨º–\®`‡Ò7tžu}¸ØmåÛÙ[ÍloH¿#Â>ÉOÄõÂè(ù”uä?Š§™ëá"é7Iì|ÚKþœØÊ?Ÿ
+9˜®ª®.—+ø´™ôÍ¦½U²O¯€OçMóîÓ±ióÇ§¥ÛDuöI|"®CGÙ§W`íýŠëBGÆ…Ì[öi˜ôÜÚ?Ÿ
+9˜®ª†äòÄóÅUQåÍÇ½¢Wû©~ÿÍû+f‘mí^%ï·áu:ýw<²\?ok/Å}BÕ¶þî½Ý&³{¯F·qß{Õµ­ôýŽQ±Í~WS{©.çÁÙ—·ëR»ÕW‡T%ëua©t%ÐÅ@—]^”ûh;lånçŒ­òíÔ±•h‹q?¦`þý"~ÿ)Ï÷aNíý²¥ì?ø¡/¸àJûeù™¬ÏÆhÜ ±ÜÃùJ7}†··î—¨ØÑûþžsH'Êþï—=5áºŸãÑ];¸¯W§Ùà¯ŸÚÉõãý³‚fXîiÕS—;þo;X±ò°ò1õQ²£ý`·jÚ¸ƒÀ¾&°ßàˆ}àm #ú µüŠT¾¸"öÝôÚÑŠý¢]½cŸÇ?éDÙìLÏlëü¸­3»®wîäŒ¡yxNÑæ^•$Ë5âðÄÏX%;û·®·×Ñþ½2»®ÏÚÉ}]?dçäu}’ÞqðÚÎ~Þkwj/ÕåÌkYªs0Ó“õ’{éÒ +ƒ˜f8žck|º3¶rwQÇV¢-²<Ø‚ãì÷}ü™åù\üàl’ágÊ<°²à‡¢ÄÜ¦v†ç©où7	¥ß<4Ë=ÄrÓgæ®Ö¹­tïsÏ9¤eÿç6ÕägÕ»9ã¬ Fg*Iu>ÞÌ}>hÙ-y>˜µwTç¹Ÿçƒâ½¨½T—3ŸÕOµºº&‡òoKÉ¿…ÅtY¦Ã}þÜg?ï®î§D[dy°Ç‘ì·?â·ÉFH†Ü=Œù€ý?Œíêm>à1“ú–#-é7Ø¤ò•ç7}ú÷°Î{yŸxN$(ÿ;æƒÚ=Ýï‹Up¦’¼È5×¹BçÅô!Ÿ‹ßké%ÿÎ¡Ì>ŸÄ¼8¹½ƒÜÃ†'¢è[þÝ˜¤ß¥‘Ê‹1ì¦Odo›x•ûzÇp1ëÏþc¸«6ª³­óã¶Îìýú†ûLCªÉ‹\s|kôš˜þŽDlÝòû­”³€‹‘ýhŸ×ÞÞ°ÍømDßrŒß¤ÂRùRŠØvÓ§¦ÖŠí™û{Ç6cŽt¢ì?¶ˆêlëü¸­3‡m~__¸ßÔ1¤š¼Èu«rî‰éÚìGøç®§“ß;)3º€‹ÈA7ªÖ¶?hƒ¾Ñè2 è"Ry±"¶Ýô);ÀŠíªƒ½c›1G:QöÛEÒûâZÆ6Û:sØæùñ«RÄ¹>PíÞ·æÐ¨Îã‘å<DÈkâ”²kÜŒ0úmåû~ÐÕ@—-‘Ë38ÎØF…¥ˆ{šlá7C¶Eß[1="cº³˜sI†ÐÁÆe?dÁ'àmŒò8˜)õ-ú`º¨ºT^ª8FÝô9Ø:F»ë½Q;¤eÿÇ¨jR}.¿q÷çò\z_¨ù(ƒŒuæ?¯nêkŠjò"Wï!S—kèú¾ýë}O~#µ‚0ÖB™qW„qÐwíÇ¨ó6Ž«hƒ¾Ñèb hèÂ …ŠãÈMŸâCmâ•6xG<—N”ýG}tŽŠm·uæÖ:~O;v¨†Šþ^l³\-‡M]®šŸí±žñUù}:eÆBìPqÅI:Ô¶?hƒ¾Ñh¨Z º(h‰"¶Ýô™l°bû«#¼c›1G:QöÛªIÆJÍáÎ{L¯jôïû'Ne™ýþ©¬Ñ}]§:šåÚ?#ÆFüþpåøz¸Ú>–yö{Ä¦#¬xÎ=’îÇ—cúœÆ'Æ@ús–W™ÛÃV™ô>yúêˆÌÄ·ø'a©“Î%HÙ©¿þ°ú³„JR£èÃqŒÎ!û‘ìæeÞ¿ÇûÄGÊØ >Ã	ñZð<xdúúÇ“™«ò'^ÛÁ#3ƒçÅñÛÏò9ñl:Áë:Çk‰A)^Ë¡3f4èÌe]¸¾­®â`ÔÑX†-tw4ÙrÁf§„P.IQZD”ÁAÄùÃHÁ^ì›BãŸñ·ÂP¿²"`&ŒûÄgÅ‰BFNPjÄÁ	Œÿ•«'‡±qJIf	AQ„RAþ#°…øB€¡]àrçð'‰r¹õæ\«õ®-DniÑ~‚(;%pX}ä°0}\gu¨3®‡Ã»‚‰Ü˜†[gçÀ™”:URk£Š¬Eo¼’$#q?nFS…R	×s„ÅrìQNteå"zƒ!ÓuXÅ©Ç=¯oýÅÊ!–úBŠ!uR&ª®ƒÄÝ¡±ŽKØ—$‘dy!€	€3"1p¤ŸC›Ži hÆsBó-¹ÞŒH¸±•8pKp•ô€%QÙ„hAÒ²Jì×õŒúf¡á¨Öc‹Øj,‹ÅZÙw‰¿‰]„zçÒdÓ°×ç§evkm!„2^¨¦l„†F²Áæ!«eSU˜ÓÖ`ë9:aŽc«È3‚@­(¡[dÍ¬.5§©n²‡Ù`M+ÒÀ¤¾¡¡µ±­mÆá¦&6QdÊÌØ0Sç'”Aþ<@Ø;Ì©r—É.œØ±òÜšØTÄ¡}™>Cô*¡›*¹6©ØèGE1)ÂÉ*	€+ÙPF ø©òŒûÝw®ìmE¦ŽeãšëÔ‘¤ fÂ2KÑëœµ½Q Æ…¢()Ü/”åžHUVèþËÉà¼MbŸ{GŸ¥³
+«‚®¡ÈG£\z|z|T“ü|†þEÊ'^Z/tÙh›i'‡¾ÜQudy 8ëöµù;äuzž4e´ï/BgaFO~žäÏfÊ9Fi÷ñêçÞSñ™h÷ÆÇÉ¶å'x³­_˜X¸Ã6VÙ’ô<Èåå1<»âYÿž|ÂxWXô€Ùni¼›=41õžÕÛO¥|gçXeÕù½ýfˆ‡&ûú‘4c•qÔý”åñg¢=ç.Ø‘Ã§ý.‰ï_<É{Ì¯
+´±ÖEüøÑ¼žÀGôºhèb.rpßÐ#Ž‰4tµòføó~XÄwhÏîÐ	¬&>Q¯`LsbR?=™xÉé°Äþê:Eà‰yŸš:&ÍØÉó7&¿¯éÚlþÆ¤‰ªÅÍPMN~~'GÍÏ*ã?ŽÃ\ó1ñ°ÔyˆµµÆ(j?âØÄ‚Cš0ð’ŸÅd;uNí½£[,¸½Î0æØÙ„ã’Ã+äXpÂLu¦‰ó¼,…¸.^“³\øìA®¬Óœä‚ÌÒ\Úµz‡mŒ61çwXù²OO9w F›Â¼èÕfnóÇœÓþ1Ú‚ˆÑ–,WÑyFÌŽÞÓ¼Çeh9ÍýûïLè"pñ¨‹Öéôï?¼&UßÅç?½ã¯m¹ktXb´õuZç¿[ŸN½Nœ>×CŽÑŽÍßõ0q­ˆçSM<€.§î1ÚÊÏ°_3ªÎb´a}‘c´=fà÷2Þp8rfrýò‹ÕÛ[lÞ«>ŸšÚz‘*æ¯Òýƒ¤wÕ½<³ÏŠêü\”[‰ë¡5;Ì\—™.{ž§¦å,s>{íÆèÚW[÷h¿M;Ë¿,B¦ë€j kÈå
+ëbïÙQõÈâz'Ùafû4‹Šûö.3¾Ðl´›E¼˜Êvã©ºË?;9˜nªn$—+ØaœôåXaò:¶µ_…èg{_Ç*ÎV7éÔqj>7ª³Oràq½r-è(ù”uñX;ÇÔ±íbÌëq{l“?KÎñÏ§B¦kƒj A¹\Á§}¤/Ç‰”}º<|Z~®wŸœ;|Zy^TgŸäÀ'âú$éÈ±ÝdŸ.ºMÃh·ñ*¼Ü!Vùsî¹þùTÈÁt=Pt-¹\Á§5e÷ÌêÓàÓìó¼ût¼{þø´ð‚¨Î>ÉOÄõYÐQö)ë¨³ÏÏ3çÞJü"^Nsoé7tž>r0]T]].WðiîÚ÷ÌâÓøtì|ï>8þø4«'ª³Or„OÄ¾@è(û”u\“írÐ‘qáÛ­Šôë»À?Ÿ
+9˜®ª†äòÄ=çtoÈòæÇï13·_;ÿ¨ÇÙ§Êû.ùÞ+ýw6²\£Ì_öÖ×À…þîÁíïñç«õûÁß}né¤Ù\ãÌ‹n£|o ¥Ò‹’å_Ÿ÷ƒ.º˜ôyyA}ÔÛöüïE)~ú"u%Ú"GŒ¡'ÜmñU9Þ[JóÀúo³h}Ly;~*»”Îˆõx‹áÆÏlÚøA-ë'•«ÿæ±›>Ý½Ö=”ó.õ¾'8>·ôrö_þìËˆgÏalëÌÎaÓ/q_—N³Á_„ÚÉõ¶ /§™á–}éÔå¾µ²ƒbžIXü—Sã”+CðóÜ+è7Zz½Åpc|¡dD –nIåê1ÜÜôéºÌŠýÙWzÇ>cr^<ûýÎ«èÞ°—±Ï¶Î,ö«ûR|ŠçMaîUI²\½Ï;ü,5ÞçïúÝÒ—Ùõ»¥Ï}ý.%}5›k”L¦ícÔm·åïŸAW]ZúÔG½í0Ô}…3†®PÇaw?É¶Û¦CÄ63Ç<tg1›i|ßHyZ6ÖN×ÒYÃË¼«ãy¢ä
+«]
+T]H*_EqsÓgúUÖ9läZïsÏ-¤eÿç°Þ™Ä÷2žÃØÖ™Ã
+®vÆßCW«ãO%©Î#gºÏ’lšÍ5Înç &QG´ÝñºŒÃçeõQo;\u³?†®Q÷‡a÷ù@¶Eßvz¿<~ ;‹y2áq€2ŸNŒ¥w®£s›Wy›xÌ•]cõÃÂ K€j %•«ÇKqÓçÀ™Öù`ÖõÞç§#ñìÿ|ÐrCTg[çÇmÙù ä:÷ûbü©$/rø ×äúvjÉï=”½ÀÅC7R¦™Þ°ÍøAô>@—Õ@J*Wáæ¦OÅVlwÝäÛŒ9Ò‰²ÿØž~sTg[çÇmYlÿ|ÃÔ1¤š¼ÈÕsãÔåš¹_‡þŽŒ¦ÀÂ†ä÷fÊŒ…Ø¡÷Ú¯wƒ7l3~Ð}£Ð%@5Ð…’ÊÕc¸¹éSt³Û·zÇ6cŽt¢ì?¶C·Eu¶u~ÜÖ™Ã6¿—½yêRM^äj¾eêr}uTbž%c¡Ž°Ïòß«)3¦ÃwÐûÌ›½a›ñƒ6è}€.ª.’XîážÄMŸ¹·ÚÄJ˜åÛŒ9Ò‰²ÿØ#l³­óã¶Î¶y~ì§¾÷¹ß¦vO<ïþ¨Îã1Ÿÿ¾SÈkâ4t{·²Û“±!­ºèÒ %Iå™á6š ›E÷ÛÕldÚÂ=†›l‹Î¾="cº³˜„‘¯(3¦Cì3øaÚmÞÆ(ƒ©oÑÓ¥@5Ð…’ÊÕc¸¹éÓ;Ë:FçÜå}ŒòØ!(û?FU“*ÎøÝbå
+óy‘;ÎT’¹F}«| 1™’}=ñ`È¿ý”ÙçcÀíU÷PÜçYÞ0Ì8Aô>@Õ@s¤ò¥1ì¦OíÝV×ÜëÃ<ŽI'Êÿô;ï_Ìê÷÷ýxÏÝîïYTd¶¾üÝß‡U‘NšåÚ?#.¯O‘{RœÁêWûžºä!ûïfÅŒâ{­xn¦ó1Ù÷x‹1Usoús–W™ß±‘9p¿÷1ÈóPÍ½™‰ÉóOÂÒÄ}ônœ²SE÷©ßë¨$Õ1Š>Çh9ÙdO£ƒw ^“=6&dl Ÿ÷y‹1¸?}ýãÉƒÌ³î÷'ÆÛÀý™Áóéˆ1%Ÿï=Õy]ß¿'»ß.Æ”j0)ªyx}s›%j“ÏA¦(Æ’J¯R¬(ï=3ƒCëÛÔB;ý›ãM¥6•hêÿ¨R6Q¥Œn\CBÅkýíQšÌH ÿGhR°Ê#:Ó_Ú)Fhú«¾ç8GªQšÒïA=RSú}L)ZÓ_Ýþ·"6ý¥–ÇXHvQ›üàë¹)]Î®Ñ›T=üW'×øKF-.6C/©Ü§þ]±—Äy3ÑçÈcôYÚc¼èêŠ|4Ê3g§ÇG5ÉÏ-Ü¿{©pvrì%Ô¼öñj©Íß!¯ãï½
+ú«¡=ì5'?gÑgÛ˜I¹«Ÿ!NÅ§á	o|œl;ë	o¶õSÓfwèóž²Æ^:qv"Ãx¦Ã3ÿ=ô›ñ­ü³Ý¹xgùhbz‡øóyýÉ'8;Ç^|%ªów5›!¾“ìë9Sˆ½T5¤î'×3ä)ì™û¹~qå ¸ÖÇ6ƒ=çc£P:gž*öÒÀûûmò£Cì%ôº$hS—ØK=áŒ­¤ËYxÞ¿rËã·g]wÐ%ö”7]´D>¢oÐEA5Ð—¹¨0(ôøåÆÃÓ¡Çž†/ÓÔÇÀ[:¶´ÊnÅGøqsÌ^õ„/£¼†Ÿ±ÆËhx–~ãä;çxAÅÏ8Çš|ijïÜâµóBÏ™éÅËã	;0-d*æ&ñ‚T·ãG¾*O¼Æwš¸(×S‘Ÿûœ3'ù{ŒÑáÌÅª÷spŽþÓµ±wÔyo«“½ÆÎ˜ýB‡^i_c¼db·þ	Â	ÑÎç¬Ø­zÁf~ÌKÐýÙÌÅzÉs)<O{YKöV>›v§"›ÜŽÇ¸ø,hÙ¸¢„mlÊËôlœg®¤Ïaò+ÝkIþ/Bø_SèßkJŒó¢z¤¿V{Mª~Z@²‰Æ¸c¬"	›.º.Q‘Ø¾²ÎƒÜýŠ2iÜñç•°v˜x‹>Ägˆ1$×+yA-ÆŒêø>d„ðvµqÞæËæø^	¿{Ùð¢u|_õbêñ=ðÂüßœÊ¯8EŸœc?¾¿Ê9ë³,ÅäU¶¤ûý—ñ]"÷ùŠ5fäàKV»>´@ª˜o<7dÎ®n1²zF£:ÇŒœ5<ÿçMAÎüœ"ÆYèBDÏ!ºjVêY{Øß'…G¤Y¸§’çÀ—cµ=ím}%¹þWï¨·—m>ø®û=:§bÊOÕæ‹©Üw”
+Ý>ÚQ«}?ù¾£ôe²­Â<ç6wŸÇç{@×–çn…ùù’CðYFðŸìÈÂX•ê5“î‰õËþ°×¯òµ¨ÎÏç9býMŽ}ÕŒž/ö-¾jÆêD»½ˆ—S¬#U¯ú«CÈÁtØKÃçUäòÄ~$=ŠBæ<ÃôìË¬õeÃQµñn·{£c^€ýÕÇõTÓŠs1ËúóëQñ“üˆë'¿Hø» óé¤ÀZ6c¾yÃC„½¡×üÃŸƒiTÈå‰{ _C	g=ÀÙì×½ãìª×çÎÆ¢:Û>GØ^àþuè(ù®ïû¹.tü²Ïsö]Õ‰½áŸï„LË@5ÐÕäòÄv¤WùÞkYæˆá»“Ç¼û®vlþøîÆ7£:Û>GØ^œ3€Ž²ïXGþ£ùM1îØÿî1š&Èo•oúç;!ÓrPtu›rÑ®ûí¨ÎòæÇïq2{ö ì-gŸÞø¶¼o‘ïÙÒO&ËÕÎüe?à¹kè-÷°îõVf÷°îõ–ûÖÜ·“¿·©ú ª3¶ÙÏýïS{©.çÁÙ—þ˜gõÕ¸°!ê\Ì1™@K@@—-å>ÚÃ6þ×;)~+óul%Ú"GŒ}[¾…wÈÒüp1Æa˜žfRž–mÌ1YðÃà›Þb7ñ³Dñ;V?h –ço©<¤¸ßÝMŸê÷¬{cãÞ÷ÚòœC:QþçìwwÂ¯åsßs_—4œ©$/ru½?u¹ªß§wMÃVŸ÷á,]ù·2û¼øßë#ZÃÞóvfƒq‚6è}€.ª.’XîáÌ†›>X1\ú±wó8&(ûáI’‘m·uf×ç98c¨àÃ¨®‚¡ÚÏèy–ølÆ÷8yMœ¾á~6°}‰¶wpŒ!Ð è’ Ë%–ÿ1†æ~èl£âÔldÚÂýl l‹>MŸ.cº³˜#$CîÇ<FyÍÇûÍÏ)ÞßÞÆ(ƒ˜Ô·èƒi!¨ºPb¹‡Cnúôl£iŒQ;¤åŒÑ5OÓ±ÑáØgì¡Õ…:¿5îÏ
+¿4Û=„½ôÃLåu’Þ²YwÎâz.duxm
+{;Ÿ¦ÿNäï8KOÓçþLP\‹|bÚ­ˆè ä°ÜËOX÷C¦=Ÿº¯ƒì¯Äëšø[ôºh>èâ.÷4÷	=¸¾–†®Þ˜¼ºIÆÑ†<çü¹5ç§ñÏR<³M¨Ïw*IõùGØcÁTÏ?$[â¸(¢÷¼¼6m†ýVr]Îá»–Ž§yœí¾auäy´tiÐåAWå>ÚÃöþïóÏ?Ÿ«û)Ñ1¶()³ŸÄ3aø›XqßPLÏlÖ%‡4ð²1÷]¹oÑèR ‚æIå«§áN~ô'Ÿ}â}ß|6ˆvíò‰¤ä½ùØQâ`ð¯Ê)¶ê‹våñcÊÂ÷hlpÙnœ…ò{›ÿ.'Ð¹©äòÔ*±Ùá3Z¯oåSÂL0	U&{¸œù)y¿¼ãîv?æ®‰¯íß7ñ¸Ûðkß7}•Ù÷MC_¹¿oj'4ËµÆ9W¾o¿õ›1=¾V{?T½ýi¶ïDÄž³éßZç¸™´G°âog¦;¿Mõ*sá\«Ì{}ïýþšçòÎo3sÆôŸ„¥òç$ÙÌÑÞsÕ×Z•¤:FÑ‡ãm û‘ìIctb‡ÓpþØ%ßËØ >çz;3½×÷éëOdÿÞŸ3Ó<n÷ú>3x~÷Ø—Ÿâlô^'ÐŠ˜xNZ:!Í¬­ç ÅæUMmuÄ“ÖÍÊ¿ÚÇðÖ55Ð±§¦Ã›[C´Ûh¬¼àI§“qÜ·2.Â_mÕÎM{íÖ½×Tg¦QÄüqJŠÿw«)Ÿav©ÏÂÒ™òíéË	gþÃzÊ™º×%ßµÞþ•ÿÎeJ‡ž};<?˜÷wuÆgõ”úÊÀ‘M…–q,üº2c§+ÿ.ûw<—åñV…{ˆ¿ë<«Ø³-úœù}–¾w€êŠ|4Ê-¿¦ÇG5¦Ú{Ž=¢ãÐEœgEÈkæ2Drÿò:Ý›2:¼§§}yÉ÷ÀôÙöêØ¯êïÀSñÙð7o|œl{òoÞlë¦²w9M/ }ïòyÖpÞïÖ²ix/ÍÏYçtËÖ2Û½‚÷á?‚&¦¯h¯.ï­§÷²”Ï³ŠôVšßmð^_Ú¬ì©|·QWÓZ®o«k‹Ìh­?¢ÑÜ‡SpºÎvbÈVæ³,8¶3=§ÿnê^ƒ¿_À÷½$»Êþnðsàº"hè¢–ò©¦Sõâ¬˜>ûÉÞAÙÀL˜®½Ým|‡+håæœUâ™ÚxòQõ¦¿¥˜èÒ”!^œÃùå.ÓÃ;|AyÝùyÉUâù!â×»Ûiúgñï†ÜS-ø•€ßªDÙ¿/ÎÜßïì4ê¸§[Áo5æÊ ˜G¼8s}âêïvó{h÷:áTæG<~!È÷;ñâÌýÍ­Ø>hÔqOíÄïÌ/LKÙG”!^œ&~3›Úõ“1Æõ™ÏJÌ)ü{0ñâ\­ÅôÐ¢—ßíV³×ÿ}ZDù@âÅ¹ÊÇÇNÕÏ>OÍ~}à·4ø•À~û/ÎT>Hx1ê¸§[+búøŽiìwñâ\± a¿+åãú_`\Ê<#Ä‹s•w¾{²ÎgrÜï|è]ø-~‹AßVâÅyŒÊ?&}:îiü4ðã{©zÊ-Ä‹s(›Æïó½ÁÞøåž*šNÕ?À;A·!®Û/ÎœBûŸ¦/pžÚ]HñB4ÞàAK)O/ÎÃ$_¤s+–OéÞ“çæ³4ø-Çz“ö?/ÊÜ_•¡f¼{Ýæý‰kŒ=Ù‚2ïÉŸV‰ç0ñkØø»ÕWº@m¾>òT]ÜºiÖµØ*œÍŠTvkó©®skuALñ,FyUâÅ97ÇÀóIñ¾ÜÓ­TÿløUÐu)Ï[t•x®¥òìÏ+ƒMç-àznŽÓÏà·øå1&)ÿN¼8só¦­$ùÈWî©zaƒ_ø-ƒñ‘EºR¦þ<Î/à·,ó-¥¬/ÊÔŸ·õmüŠ™èÊ”³‰gîõmRÔ·"—ø¡.Ó ôÍ!^œ¹¿Êí÷	ž­È¯üi‚²¾¹Ä‹3÷ÇxiRÄËø­
+~:äË#^œ¹¿ˆ6=hÔqO¡EˆÖIAW§\@¼8s5/÷Ç×ßvð[üÖ$ú<åÅˆeêÏ›‡Áo-ð[ú/ÎÜ_Á…Y«uÜSqžÁ¯œùnNyIâÅyØ£|aâ'Ö¦KA¾"âE™úó¶=~Eà'æçeˆgî¯eÁ‰à®ŠëGn¾Áoið[ò/ÎÜßäšà9Šëy-øƒ_1ì·<ñâÌýU³|ŠúÞ
+~ËƒßÊ¯„xqæþÏF÷ô3óÃX”ñ¼ñâÌýmx÷åÁñÌó¹8ß+(ó/ÊÔŸ7¼ôÑúÑçM¦9˜ŸK‰g^_ÊO‹w‰ß»§	æ‡{AyŒ‰eêÏ›|‹ÆtqÎ’i.ß›R/ÎÜÏW'Äç2÷Ô~yàWÿ®I¼(s¼~p¥óöcÌX´”rñâÌýŸž 8?‡#~X×e®C¼8sý÷wQ\ßÚÁoYð[	ú–/ÎÜ¯F÷Ô$~‚²¾ë/ÊÔŸGÿ?ñ[b‚²ßÊ[%ž‡=òãúÌ‡ç=A™çñâ\¼8=Ï?>ìV»áúòo¢±ý^'^œÃTþ³6ÜYñ~<~ø‰ûñÑ?i;¸¼ª2ŒOÄƒ96ØÆm0ß§.E‹62¶ÈÈ–-£E¶lÕªUddl­¢ÆÖ**ªeË¨È–M##[6Šl.T4\d¤¨¸h¢áìy8Ï+ìå³ûû={áãìÿ¾÷Ü÷žsî¹÷ž,ªï(÷ŸF¯‰kœFkãñ`QÓô]£~£qgj"npZãÅMÏ¡œÏuÞ¼áÔºÈƒni“T÷€Eµàïm«Tfê­d¶ã%‹gã¿°(úkº·eüÆãMâ1÷Í2_î‚¿°ü~ƒãeˆ—¡|î‹j
+äÌ©‹Ä>Îý½sVÎ¨úÁëÄºZ?ðÌ¿zñf“G«ýí‹¢?þ†¼îëw‹7öÎ€Î°¨zÇS™©·hZ]$öòºÁ‚èí½ÊL½ÕDÝ¨opVíXý±}~§gûœ^üÎ¦‡ŸÍfBkÓrFU•v|YžœˆxËµ¿‚Euàï›w6æño>àñrÄcCRBEe¤‡ÅÇòä°7»
+º ,ª"Ýÿ~èy=X!û!³¬¿b°¨¶ÀøÚÄKo¡êoXTâÜºÈ¦×oU™©7–gÙ™âÍVýE•Í‹¯L¼ñRt¾Õ2×]ÏüÐóüh/N¼dío!XÔ0þÞ³–ûë×ž²|Êž‹ŸÍ®V‚E•ÌÛ_–''*Þ9Š¯ ,ª	ÇñP™©·&ñ²ÄËoXTÿ³<¿ùÉ~ñ2Å;E×ƒËÁ¢
+æ»ùë=ó™åã”[´ÖþU?ßÍ?Çyæ_½x3ÈSþ@ù`QÝøûàw¿š÷pÃ	S>WÇ­[¼8ñlü|&XT4#ìø²ü	à¼ŒûI«|YU…¿'ž•w½g{Z%ÞâØx,ª#Ãµ'ìô»žî/K¼ÓÄ‹‚Ee,Ï3_Xþå­åKXTÅ—/žãÉ
+ñÒÄ³|É‹j[àòåÏ|io†x–/KÀ¢3]yÅèX}êåÉ‰Ïò%,ª,3,_Xþ­ia–ù²,ª%ÓåËžùRr
+xº5»”}XÔp¦»44:w>õÖ¢ø–Šw†]ïƒEÑçŸŸñ¼?ÃíˆÆáf ëæä@>W¨1íüÇòVãõŸâòï
+ÏöŠå×Ü…Ù5¬°¨‚¬°ãËòëØ™},ª>Ëõo?òìßêÅK/CÇ£,ª;ËÍŸ>¾Ãïüèç…ÙUÐµ`QÑ…aûËòäÌÏÆã{À¢ªºü{Üs>¬J¼ñl|pXTG`|â(žvƒEe,ª‹d<ñQÔŸßøžåUÖlô5°¨ŠEañq{„Y;?>ÅãÉrÏ|nƒÿXÞêq¼ÄÅañ±ü€Ž«Ù5ÌK°¨²ÅîzaŸg{U&Þñféx|
+,ªe±ËçÏù¦ñØ.›Í‡¶E/víý>Ïù°añNoºâÛ
+U’íòyÀ3_Xþa•uVë±ƒE5e‡nýäÈZ¾¼,ÈíÃ;ýçKúá?–·z¯ ',>–ÿ‡ò„ÖòeXT=þ^ð¯æ]6z¯~ê­ž<å‰Y¶§ï‹êŒ¯[¼dñì~rXTtIØó,ÿåªÙtèJ°¨ª%añeœŠùZË—ËÁ¢:Àc{p™çõ~ãç:?Þ•ƒEÑß&=/¨¸z×o}Þ˜ÿFž¬åßÅ`QÜØ¿ÝàÙ¿UÀ,oõ8^Û©aõÇò‡•w´–ëÀ¢s]{p™ç|1ËVÞÑZþ]U†¿Ü7méž÷SÊÄKÏòo-XTK®Ë¿Ãžù×¿xKÄ¾ÃÜ,ã»99gTÃàmÆüßcžãq–»æ¾Í¦³^Á¢J–†–ý.vîïM`QMKÝüäÛ=÷—åc¿Ë¼V°¨~üók(ãw½ŸñÒºÈZå­ÍïöÌÈ·¡WûÏwë~@¶î,U|Ëq/€ªÏs÷ËvxÞOŽFÀÓú…fÉ\EÃþí}•xñ¢º~+ ‹¢?æóG=ó¹C<[ÿó%Úß•`QôÇû¿®ÌÔ[FÔñÎ$OvTaùWÞNWZ»_q>XýñþïNÏþ¼<µÍæ²‹¢?Ž_üÆC‰§9^ºxv~¬‹¢?Þÿue¦ÞÊÈÓyk–õWE|Þg°Á/ÿZÄ[ žÝ/» ,Šþ˜Ï;=ÇÃäéÚ[ÖÍÉ‚EÑ_ô–êÈû=Ç»%§“§õfiÅ»,þÂò¥I¼±ukÕ>ƒEÑ¯wúÞÿ%OÏY˜]Ãþ,þÂâ+8£.2¶ÎéØ|Ä:°(úãýóK<û·zñfˆgó%ƒÁ_X|Ýâ¥‰gó9¥`QôÇúûœçõjt™ãeŠgóMëÁ¢è/uuMäýžíi•xYâe+¾2°(úãýäÏy>Û!ÞØ:³z,ªÊxžÏûd¼Äñ"âE”/À‚à/ìxT€7¶¶ªò…‹¢¿}[ª"›=Ï·6ñfˆgù²,Šþ8ÿòO^â™à)h-_.‹¢?æË.Ï|)/S<Ë—r°(úcÿöÏþ­E¼,[›Vñ]	EoìòÌ—añÆÖ¶ÕõXT‹ñ<ç×JÎOý®YæË»Á¢èãñ«<ÇãMà­ç:–/›À‚à/,ÿúÅ›!žåËûÀ¢è¯óÓµyežùRžrÖòe3Xý1_>ï™/õâeŠgùòA°(úãõÖUžñu‹—%žÿ*Á¢è¯íŽÓò>ï™/Ñ³ë"±ëé’wXý‰çw?´¬ÀñÎ&VùRaÇ·å;õÜ­=ÏºgvÎ¨ªÎ»”qŽã¥ˆ—®ý½,Šþ2l‰tzöoâÍÏžGj‹¢?^6{¾Ð&Þ<ñ*Ÿ¿E|¾îÍžíKâ¹Ž·X<Ë—°(úãýNÏûeâå‰Q>_aÇ·E¼¨xg+¾½`AôÇüC|~÷/‡Å;‡<ÙUÐõ`QôÇçëÖ{Ž¯J–×Eþ¤º¦MÖñØE<›=ó¯I¼™âÙó¢7‚EÑÇŸ<ç³ûÅKo®ŽG+XýÜ57ïVÏç'ÎOùGkýÑM`QôÇûy®ŒÇöòòFÏ	³K™ç`QôÇñËzÏó­åÿ¬ç'iíùÉý`Qõø{Ùiy·zöGor¼ñìùÉ[À‚à/,Ÿ3À+Õq5ËcR’œ3ªè
+×<áy?™åKµ/fy¬/ ‹ªZ_•x	âÍÖñ-‹êÀß³‘Ï¥žÏ7uˆ'ž=_·,*ã¥aïðy¼]+ÓÚ|IçŒÊC¯òŸ/)y¬&2~-ïT=_Rƒ¾ˆj{iXý±üÕ˜åñ¨‹J,ã±|ìš×<WƒE•¸þè‹žóMÃ|ßJç&m¶xU˜û£ø>Ö&¾ÏäyþôÔŒ–eÍ›e;r5XÔpàþòùÃ=ëFkÇwóôœQqëºÆÿyÇ~¼/ù=ËHkù—ž˜3ª¦—…ÅW°ÒñÄ³öyXý¸·eüÎzñ˜#f©° ø‹¯[¼¹âe)¾L° úãøeüžç®r¼EâY{ŸDl¯Tfê­l=y®7Ë8Á_Øþv |—ú5Z‹ï7h›©*ü½ïwy¾¿QHž‹Ëì*ú‹¢¿Ö}4ríèXxê­B¼<ñìzëv°(úcîÊL½µ‘§ë,³l<‚EÑ_Ëö«—>í9ßžørÇ;K<{>ì°(úãû°®ÌÔ[™xçŠgÏ¯u‚EÑ¯ŸöìßZPþ.µm´v=x'Xýõ~ëXÞßù?ñfˆgó±]`QôÇöô.Ïû¿%çƒ§~Ü,sæXü…ÝŸn/]¼S4žì‹¢?Îï^ëÉëo¡xv~ÜEÌ¿»<¯?
+^áx¹â-Õx²,þÂÎßzñòÄ³÷·î‹¢?Žïïò<?ºÅËÏÞßê‹¢?^^ë9ÕEiœA;CÇã0Xý±=Ø3zm2õV%^Šx–}`QôÇãqÈs¼Û!^šxé:‚EÑÛçc~×o«o®xöþ~?Xýq|È³=­ Oyg–9óXýñùÉoyŽÇÛÄ[*ž=6 Eœ9ä9•¸Æñ–‰gÏÃ=
+aù\^·­…>®½‹¢¿ûÓ-âÍÏæ¯Ž€EÑ¯/¿å™ÏÃâ¥‰góWC`QôÇüëöœ¿*y¥ãeŠgóWGÁ‚à/ìþt“xYâÙýa°(úcþu{Î_õ‹w†x¶XT“ñ<ß-(v¼—‰gÏÛŽ€Á_X{PÞÝÊZË—c`QôÇówÿ¿þ²[¼âY¾LÃXœªï=ží}ôUà)h-_âÀ¢èùr·g¾T‰—)žåK<XýñþÑ{<Ïñ²ÄËS|ÓÁ¢è×3w{æKÆŽÏÆC‰`QÆóœoªï\ñl<4,ŠþJŠj"?÷¼Ô†ò÷*_h“_
+Xýñ}ƒ{=¯_íx)âÙóŽ'ƒEÑóešçókeâÍÏÞ×H‚¿°ö´E¼4ñì}’9`QôÇãq¯gþ‹·H<{ß%,Šþ¸¿?÷<ßJJ/[¼\»‹¢¿åŸÉ»×óø6‘§¾Ëì*æ%XýñþôÏ=Ûû~ñ"â¡ã‘	aÇ£à5Ž÷ñVÚõ Xý±=ue¦ÞêÅã>šåñXE|Ó³=èïåâ½BñeƒEÑ×Wqe¦ÞêßU3Ê+¯H×«KÀ¢èÏÖg8}ÚÔ[7xOiœFkó±}`QÑqý†÷æ9¾byrfŠgó‡Á¢ª.tíóSžóÅUâÅ‹góÙ½`Qºýý™ïøåŸT;j–Çø~°¨Œ×ºãÑãË“ïl{ß,ªâµîzáIÏö¹ ïë6º¾v©xMïÏU›xÅ~ýÇ`ïV¬Oã®chÏµñÖ¦¡×âü˜ýF”ñ»žÞüÊOFjÔzA²«¡MWåŒª¼ýwæÝÑè×¾T¨þòTåß=¨;ªe­ë›=Ï7–'g±xVÝ`QÃk]þ=éyÿhX¼yâÙý­C`Q%¯»_ÆòOê\’us;`QM¯sí3ó/cÚÔ[“x)â¥Ûû¿`Qý¯sóOzžýâ$žÝ¿ì‹*¸(¬}Þ÷»-‘Ã_pyBKî?¡ÆËrFU^ËÖ­‘;OðZW0úzÌ¯h,A›¢ý-DlT÷E®ÿíõoT‘§sÝ,ÛûóÁ¢èÏ‹žèÙ¿uˆ7K<{~­,ˆþ¸™ÊL½e¬OÏ­™å1^Eœ?¸Æ3¾ªxð”[f™ƒÅ`Aðv|¹þÖÓÊZkï€EU¬sã¿§=ç¯Xþi;Ø±ëU°¨¶ÀøX~D÷†Ì²{,*ïã|Àÿ~O÷‡j"š¡µû»pïƒÂÆïïô^ßŒïçÇ~—Ûe<ßðî9Õò†°ýåýƒè>­ÅwxzÎ¨¸eßà¿¢éâºÈtÅG;Ýæ‹sFUr±»:Ýó|ë'OÇÁ,Ï·ƒ`Að¶¿oO¹O{²ÍƒEÑç#¦{žõäéÜ4›Îãañ•½ÕñRÅKÕùv'XT} /¼Jõ´Yv=ˆµÒ¨î7ºû)•žã5–¯T¿a–š-‹å+u\i­=ˆ‹ª*u÷£*=ï×V‰'žq`Qññyø7é¼¥µóãÂäœQqÛóÿûµm¸Þ¥øh­½:€¹ªßõ±wäÝêÙþ%®Oei­þn‹¢?¶§]ž¼*ÝJÏÖçj‹¢?Î‡Ýê¹~"Ï÷µ+´VÙÈeŠ[Ó=þíË0ü'«þh§ëzðA°¨–õaÇ·äÍŽ—(žúÁ¢èíUò¿ñF“x3Å³ñÁC`Að_¿x³ÄK·ùb°(úc{•ì9>((OçºY2‹êŒ¯ž<[Ì’9a¼’Ž—!^–Žï°¨ú@^ÿ•u‘“´þ­½/Y†w±©î2wývÒN¿ë·ª·8Þ‰âÙz–ƒEEßâ®÷éyýÑ!ÞIâ%ÛóÞ`AôÇûˆÏï|ãþ°,óØ,ïz°(úÛW9¶žÇTðð©["iÚOZ;wƒEqºÚ}VnsÅ1Ëv}X7ŽŸgŽÎ½M½•än‰TjÞÊ,ó/m=ÕvIX¾°<9‹Ä³û3À‚ØŸòúeüž`{” ~ƒÖê¯¹LqkÿW@ûÿ³Ôþ™]MOÊUË[Ãöwš8'Êêxˆç3czüFÿ)âÐÚþa_)në†ý÷wàØßóžëoŸk˜¼MŽ7{nm¤wCx}<ßvÝ*g»Îôû®€ì§>>¡\/ùÛ\\›Êÿ÷øR.uŒ]¿ü{^taM¤ê²ºHl¼ŸoÐ|¦êÅþ~"N2‹ËÇ>›•êìilC¸—úÇ8òŽãËö_îÿ}·ÖquÖ['~ßºáèûY¬ãä”±Åöã˜O1å‡¢[Žû½xãñß‡úŒõo¹û
+—ºnäw-¨~U ë¼ÚÈÆ·ÿoûßãÿ«¦m›òk'É¿ÿß–ýÝr;*@?³(ŽÓ¸fâÝ5‘®qù¹Wû³Kuó‰©ÇvBL~²8€cVvÌ1S†ž¿¾Ë;åòŸÜ\¾íøò{Þá¼*npeV;›õMgS¯¨Ãû@“s6Ó÷¦-Ý¬‹rÄÿ@ud÷ÌšÈÄÂ|Î6êÈç:g+Ž?¶ÁN¯ZG&Û ö££96}Y}ŸµÝ±—NRß‰´½¬ÖíÓóœ¿…øÛ/êÏ{-ýð˜ò9«ššÈ>çïæ/þ¾çMv|Ó4Zyü¾4ñÕ×¯Œ#“ñóÉŠÿTGZq|°oÇÕÓWÀÎyžzj[u<{¼Ì·Ÿ÷Z2YïfËÀ¦/‹ûìíŽ}ž¸wÏ^÷Ž16ë×Uq5‘TäÝÈ8ö9`7©M~.vóËgïûï*»–LÆÚÚ…ãœTa‚ø«“¯NQ'ç}v õ™ÆßÿðkÉd›í(g½ŒÅ}îvÇŽL·r§êcŸ50÷ÆØ¨7ßP¿Åå&|÷×¦ˆ»¢HŸYìàýyîŸO"“õð¬©ƒ¯±¸—owìÓŸ§¾×®>žuÅ›õP‰ß§kÌj¶ˆ}'Æ­TîaïŠµ£|‚8fWC—‚EÑ¯í~é9ÅMœ1;ŽÇyùã¿w)Gë÷¬ÚÈøuX¯“•Ûƒë¬úWÖŽŠü“'¹´°ÏiÈfÊ.’Í²ßcú[^£M«ã¸ž·ÝþßÄmN¢Ú©+Çbæ1âu»³s¡KP?Tÿ•þí?·úwÖE¬>im½úGãsFUuEM$¤Î»Å‹ŠÕõÛ XTôŠ©¿Ãaü­p<ö•f¹¿GÀ¢ºqÿ0ýJ–ñ»´ãxú˜eŽ‰~½`[ö›±òX7ÿ¥&’[\;úszìñÐù¼BÇ=n’óyÆœiÙ£Ÿ½ª62T1öÿø³˜±yÜ„¿QÇ¼íi@Ä¿kŽ|x,vûü¨êcäWýÈ]åâµ¹Š•>-W[Ç­—ûÃ±1®Ép»¦6ÒTì8‰ú¼ª¢nÊïíä³1.TŠý0¿fÏÒ~@ØOÿ:áÖ,ÞIâÍ°{É`AôÇ1
+ÊøÍm‰ÇöHÖ=‡ Õ_ñ{/E<»0ElwZ=×Òoo–x¶ÖÍ1° ø‹¯å¢ã`¶ˆ8)gT¼å›ê"7‰CËc~ÕÈÛ&^‚xÌÅù<À‚à/Œ×%^’x6W7,ŠþølâMžïä¾×ñx`6ŸçXTW`|•â¥‰gkyÌ ¢?®Åƒ2~Ïrµ‹·˜<Zås
+Xü…Å—þ>ÇË/[ùw2XT{ ¯\<¶bf×@©`AðÆkEùŸ*ÿÌö@`Qå¼ø÷Çðt~d‚EµòJÁk‡ÖÚƒ,°(úãÚümžk™7“§<6Ëã»,þÂâ/U<»dƒE5òŠ7ƒ§óÂ,ï°¨¡@^#x?SÝ˜]a¼¾Ixd;ÕÈ[þžŽÇ
+°¨¾@Þ¶Ix¯„
+À‚à/Œ×ËÓñ]	µ-—ûÁžÎB°¨®@^%x7‹Ckíóù`QôÇ{µ7{žíä)Í¦3F° ø‹/ýCà)iÓÕ¿­‹jä•‹7W¼yêßŠÁ‚à/Œ×*Þ|ñÚZP`AôÇþeü¾;%¾<õCÎê]l°¨ÖÀøJÉS?d–íÁ…`AðÆkFùŸ+ÌÞ­‹*ä‰—,^²â»,ª9WŒ1û~ÅEkíUXÔP × ¿‡Öx—€Á_[,/áY^øµVÅm'-öêÚÈè=Á‹þÃÏZ
+·D&´»Šs[µ®“tÍõR\sýò9¯¹ä£¤6Rq•û?½¸&ÙˆŸé‹Ì}n§xÍµ÷ª°º©úæ>6ñšëƒª—‚÷¼&oì™ïÚX¶b=þó_ªíàvýøk®DŒÿq½•ñêq×\ž×WS]su`?èØš-Ò~@ØÏ°zÉ¨ª‹Ü*­µÑ•`QôÇ6úVÏ6ºB¼Tñ¬¾
+,þÂâko¶xÖFWEUò?êxsÅ³6új°¨¶@^™xóÅ³6º,ŠþØFßêÙF·ˆ·H<k£kÀ‚à/,¾añ‹gmtXTK ¯äêºÈmÊÚ™¶^3Xýq½ŒÛ<ó¥‰<Íòo‚¿°øúÉS›eý}
+,ª)Wð1ð”ÇÎj=n°¨þ@Û _©nœÕzá`AðÆãËK0Þhó¹V£~mí¨~­s%.¦Œ}N»X6[6Wv‰ýî17û£U¨ëíöÿ&nsd»ÇÕO®­*ÏêÏø„ú
+õ;/'áyúâ×ÕFz«ÇXÝøùÜžô92·ésÛø;Å~'÷ã˜s«ö?Fƒ(?¸ub¿³[Çfó{Çúô‹&éw+}Ú¾ÿFÇYõv\¿3‚¾kóÚ¿ß)ª©‹˜_³EÚûé_'Üv÷[qh­¹,ŠþØŽüÖ³éïdñ¬Ùañå×‚§öÃ,óýZ°¨Þ@^x©âY;Òa¼N”ïPÝÐÚÜÜwÁ¢êyÙuŽ— žÍÍµ€Euò6‹—$žÍ\EœËíðœ›;@žêÍl>Ïw° ø‹/u‹ãÍ/]ñ]El§:üîÍm9b–ÇwXü…Å·å§ãKkõw#XýqnéwžçÇ´­à)ÍrŸ[Á¢öÆ·Ž<³Üç›À‚à/Œ·G¼ÙâÙÜRXÔº@ÛÜÛU7´ÖÏÞµ'Ç-–—`¼ØÏ6£ßÚüúÚQÔpl?kŸÓÎ“/»Hvlì=P®›2!¯Ð_¬Ü®ÿ÷<ýlÑ'Æê§yÖpv^tûÁ±~v9Sô³¥o¨”è™™bÜ»/ÂÏÏd|>Jæ€|ØÆß)ö³(×ü	ÿcTöIôûÙÛul†#<[¹OÒÏ*Vú´}ÿÃ¸sk_L?Û‡±QÝº¿ŸmÁ~˜_³EÚûé_'£ûòwˆCkÏ‹¢?~ÏžíHÉ§ÀÓý-³éü,j80¾&ñfŠ—ª~¬,þÂxýâÍoŽú±;Á¢šyŸv¼4ñ2lý$°(úc?v‡ç=œzòtî™ej‚¿°øºÅ;E¼lÅ×Ehp|ý¾¿$Zïx<kÌÎã1‹êŒ¯J¼%âEìýe° øSýy>ïÐ!^T¼¨úûÁ‚à/,¾ŒÏ€§çÌ²ßé‹êäU€÷GK´v¾‹¢?žoô<ßÚÄKÏÎ·>° ø‹/ñ³Ž7S<;ß‹jä•‰7[<;ßúÁ‚à/Œ×"^šx™ª¿‡À¢èßŸýGÏóm˜<å¾Yžo`Q-ñ•lw¼…â-±çwÀ‚èçâó{_»I¼SÉ£Õù6añõ‹—+Þö¾,Xý©þü¾ª Áñ–‰·LçÛXT`|õâ½D<[?ý(Xü…ñØçwê\2»šÇ,ª>Ç-–—`¼0Îã}øœþ¼®k8¶;nGŸ4ÅØ)£´6²mÜsÁÕøùÒ—¾í,2£úÜ6þNqìÔ±#lŸwb\wÍÄ±“}ßzÆ-cÏ#õ#¦IÛÑ˜Ïÿ<®}»!fì4„ñnÿÅ/þØ©ûa~Íi? ìgX½,ÿžK‡ÖÖÂ‹‹êäm/E¼T{^,Šþø¬n—çóC]âÍió{Ö)Xü…Å—»ËñÒFyZ³ŠùÕÈ«/K¼ío
+XýEg~ûë·ÖH;yjsÍæB'ƒÁ_X|éŸw¼SÅ³µ¯RÁ‚èk£#>¿µÑËÅã(f—BsÀ‚à/,¾Vñ–‹wžŽo:XTy /þŽ·B¼•¶vXýE?ðäRWfê­¼»ÜÚ9´Éâe€EÑ×æ¿«Áo-¼fñRÄ³±N&Xü…íïx3Å³±NXTs ¯ø‹Ž7[<ë,‹
+ä5Š—&ž][dƒEÑÇÆwyŽuúÈÓ5…³Z»	,þÂâ[ÞžÚ³ì«sÁ¢úyÛÀ;¤ö”Öæ,óÀ‚à/Œ×%^‚x6g‹ÚÈËý’ã%‰gíóé`QôÇ±Ó!Ï9ËJò”'fó¡e`Að_»xéâ¢øÎ¢?žoˆÏï»ËÒ¿žÚ^³ó#XT{`|åâ-/WñEü.ÒCžcãVñØ†šMg^‚Á_X|ñ_q¼<òdã1ã¶,ŠþÚ*ý×j)/"^Dç[Xü…Å×,^T¼¨Î·•`Q¥¼!”ÿ‹Î7Ú¶–Xý1_þây-ZÜžÚy³Ì—óÁ¢†ãk/E¼t[Ë,Šþønü_<ÇC}âñ8«µŒÀ‚à/,¾å_u¼yâ-P{UÌØØþò¶‰—)Þ)j¯. ‚¿0^—xYâÙ»ç%`QôÇöê/žã«Ü¯9^®x¶ü…`Q]ñUŠ—'ÞyŠo-Xýåoe|~k]·“§±‰Yß‹À‚à/,¾ô¯;ÞKÉ“eÎ¬‹jä•‹W ^xƒÁ_¯U¼—‰gkï–‚E•òâwcŽ\ç:­õ¿ëÁ¢Zy¥â%ˆgýoXü…ñšÅKÏúßKÀ¢èùÜíÙÿ‰7[<¯m ‹jŒ¯øŽ—&ž­|)Xó÷Äç9^k$Oí€Ù|h#Xü…Å×'ÞBñ²u|/‹jä-¿<]·™eþ•ƒEõò8Çp·òÏìjèJ° øãq‹á1ÅŸ«áóåËûó²oà\ÊØ\ÍË·ã9Ô)æj†Ö×Fò¿9?ÿë¤È{ÉìŠÙ/þNq®¦ò›aû\´mæ¾‰s5›µ¿3Æîsµ¿¹6–­Xÿ¼g\ÿcÌ\ÍÞ7ÕFÚßôâÏÕìÚ3ñ{oŠ´ö3¬^zQþ>qhm®æƒ`Q»yùßr¼ñ¬-ª‹¢?ÎÕÜç96©o¶x6WsXü…Å×)^šx6WSUÈË¾Öñ²Ä³¹š«Á¢ès5÷yŽ%6‹·D<›«©‚¿°øˆwªx6WSEKÜç9W“úmÇ;W<›«©‹:ßFñ–‹gs5[Á‚à/Œ·O¼âÙ\Í6°(úã\Í}žs5Óšë"÷k†6Y¼OEÑ¯î÷œ«Y'^Šx6WSaû»G¼™âÙ\ÍgÁ¢ÖòÅ›-žõý`Q{yEßq¼4ñl®f'Xýq®æ~Ï¾—xÄ³¹š]`Að_¯x™âÙ\ÍÀ¢vòò¿[ù«ÚSZ+6‚EõòêÄKÏÆŠ_‚¿0^§xIâÙ:†M`QôÇï¹ý«çX1û{ŽÇ6K},ª30¾Íâñ˜š¥vƒÁ_ï yº5Ëã{XÔæ@^jÖéÕñ¥µ¹=`QôÇö ×sn`£xÉâÙÜÀµ`Aðß>ñRÄ›£øšÁ¢èkgôzö¿Ó¾žòÄ,ïwÁ¢öÆ·N¼tñæëüh‚¿0Þñ2Ä[ óã:°¨u¼Añ2Å³þ|/XýñZ
+õç÷=¨E×§~Ü,óùz°¨ÁÀøv‘§¾ÚY=/	a¼^”@¹Jkù|#Xý1ŸðÌçü8^²x–Ï­`Q½ñÕ‰—"Þ\ÅwXýqú<ó¹S<Æd–¹ØañeïOyL›©|¾,ª3·Y¼SÄËR>ï‚¿0ÞñŠgsË·€EÑóùÏ¹åÔ‚§9e³«è¬QÆ·Q¼ˆxÍ-ßEUþsËûÄ‹ŠgÏ9µƒÁ_X|Ó®w¼ÓÄ³çœ~µ/·¼Ã:—hm|Ða¼=â%ˆgãƒÛÁ¢ÖòÅK/Õž{‹¢?æËaÏñAÑÀS?d6º,j00¾]â¥‹—®|é‹¢¿¶ùçK¯xÌ³<¾w‚Á_X|œcø›Ž¯ÙÕPXTo [,/Áx/`®¦áÆºH¿8´ÖÞ÷EÕísk{õ{¶÷,»®}dëÚwîsku<8ÚL½±¬­UÝuÍØ\Òù˜Kã9ç’:ßR©¾a¬~+ñó¾[ïÿ™ÙúÜ6þNq.éÀaÇ„û´ûî˜¹$í3·Â“Çæ’ö\RËV¬Ç}®ºÓºO1sIõeX³¨ìÅŸKêQ.¤(f+Ä~PÌ®ÁÛïÙ·.û1x#šÍçÏ`AðVÏÕâÍ/CmåC`AðÆ;(Þñ2ÕV€EUò²Zïñ²í™F°(úãµm¿ç3Ä›Äc9«gÁ‚à/,¾ýâ-ï4{¦,Šþx_¹ßóâ”Ÿ€§µÈÌ¦CC`QûãÛ ÞäÑª-?
+äüÕø·å{Å[&ž=s9añˆ÷ñì™Ë§À¢öòÖÞTyHç¹Ù(.!gT#¼Ý±<µ½ñ`AðÆ@ù‡Å¡µ±Ét°¨Ý¼ÂŸ:^‚x66I‹ä5ˆ—$ž½Û5,Šþx¾=ì96é!Oït™Ç<‚¿°ø–µ9^ªxŠïd°(úã}ù‡=¿Óºš<µWfy¾¥‚Á_X|Q~@ó”fe‚EUò²~ËÓ:N`QôÇï°ðœÝô³Éã[añí/I<ëß²Á¢èßÑ4à™/)7ƒ§1¬Y%`QûãÛ ^šxót¾å‚Á_o¯xóÅËÐù–µ!7"Þñl†(Xý%ž…úóûŽñµ?OïÛ™eý5ßnñ‹g×¶ËÀ¢èã—Ïï´ŽYög‚Á_X|…û/O¼<ñòÁ¢yâñ?™]a¼ñNïLÕßr° úcý©ÌÔÛ²_8ÞYäÑjW€EõÆW-^¾xùêÀ‚à/ŒwåQÿFkýÛJ°¨ê@^Ö-Ž— žõo…`Qy›ÄKÏú·óÁ¢èýÛ#žíÕ~ñf‰gý[Xü…Å—òKÇKÏú·5`QôÇþíÏþmƒxÄ³þ­,þÂâÛ‹òªß µþã"°¨¼‘XžöwXý±{Ô³[{`òø.‹	Œo·xIâYÿV
+EìßõÌ—ñæˆgýÛz° ø‹¯ðVÇKÏú·2°¨@^ƒxóÅ³þí° øãõˆ·@¼Åª¿`Qô×¹®G=û·e·9^¶xÙª¿KÁ¢zã«/G¼<Å·,ˆþØ>£Œßwn/"ž=w{9Xü…Å—õ+Ç‹Š¯,ê` oyêkÌ²»,þÂxûÅ;C¼|Õ_Xý©þü¾Ó?¥ÝñÎ&Vûûn°¨ýñm OÏd˜]Ãz ‚¿0Þ^”Lý­õoï‹ÚÈ/A<ëß6ƒEíä­ýµã%‰gýÛÁ¢èýÛcžíÕnñf‰gý[%Xü…Å7 ^ªxÖ¿]Eìßóìß
+ãxÄ³þ­
+,j 0¾ðÕo8«geÀ‚à/Œ×3§geÀ¢èýÛ gÿ¶ì·“Ç÷)°¨žÀøªÅKÏú·z°(úcÿ6è™/Å›#žõoŸ‚¿°ø²:/M<ëßÀ¢ò6‰7_<ëßv‚Á_o¿xÄ³u´wEÑß¹ôìßR~žúI³¬¿/€EíŒoƒxÙâ-U|`AôÇöeü¾³|¯xyâÙõÖ—Á‚à/,¾ñ"âEÄk‹ÚÈ[{»ãEÅ‹ªûXÔH o·x§‹w–êo7Xý±þTfêm@¼|ñòµ¿×€Á_X|…¿Oý¤Yöo{À¢yà=®þÍìjhXü…ñz&áýº,ª!·ì`,OkE
